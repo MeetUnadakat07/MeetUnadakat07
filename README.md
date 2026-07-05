@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Meet 👋</h1>
 
-<!--
-**MeetUnadakat07/MeetUnadakat07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Computer Engineering undergrad building full-stack products, obsessed with Indian equity markets & fintech</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+- 🎓 Computer Engineering @ **Dwarkadas J. Sanghvi College of Engineering**, Mumbai — Class of 2028, CGPA 9.48/10
+- 🧑‍💻 Frontend Mentee at **DJS Unicode** — my college's technical club
+- 📈 Independently follow **Indian equity markets** and I'm building at the intersection of tech and fintech
+- 🧱 I build end-to-end — from solving the algorithm on paper to shipping the deployed app
+- 🤖 Long-term goal: become a top 1% AI-orchestrator-level engineer — someone who knows which tool to reach for, not just how to prompt one
+
+### 🔭 Currently building
+
+- **Vibe** — a social app combining an Instagram-style feed, a swipe-based discovery layer, and granular per-post audience controls. Next.js 14 · Supabase · Vercel.
+- **Rentify** — an Airbnb-style property rental platform (Express.js, MongoDB, EJS), CRUD-first before UI polish.
+- Growing **DSA_in_CPP** — solved problems across Arrays → Graphs, Dynamic Programming in progress.
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,react,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,nextjs,git,github,vscode,postman,vercel" />
+</p>
+
+### 🚀 Featured Projects
+
+| Project | What it does |
+|---|---|
+| **[SocialConnect](https://github.com/MeetUnadakat07/SocioConnect)** | Instagram-style social platform — JWT auth, protected routes, follow/unfollow with state-driven UI, discover feed via REST APIs. |
+| **[Rentify](https://github.com/MeetUnadakat07/Rentify)** | Airbnb-inspired rental platform on Express + MongoDB + EJS, built CRUD-first with Mongoose schemas for listings. |
+| **[DSA_in_CPP](https://github.com/MeetUnadakat07/DSA_in_CPP)** | Public log of solved algorithmic problems — Arrays, Trees, Graphs, Tries, DP (in progress). |
+
+*(Swap in your other repos here as they mature — keep this list at 3-5, real ones only.)*
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeetUnadakat07&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetUnadakat07&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetUnadakat07&hide_border=true" height="165"/>
+</p>
+
+### 📫 Reach me
+
+- LinkedIn: [linkedin.com/in/meet-unadakat](https://linkedin.com/in/meet-unadakat)
+- Email: **your-email@gmail.com**
+- Portfolio: **your-portfolio-link.com**
+
+<p align="center"><i>Building in public, one shipped project at a time.</i></p>
