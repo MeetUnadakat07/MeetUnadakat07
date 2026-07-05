@@ -3,10 +3,10 @@
 <h3 align="center">Computer Engineering undergrad building full-stack products, obsessed with Indian equity markets & fintech</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/meet-unadakat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" /></a> -->
+  <a href="mailto:meetunadakat06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <!-- <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a> -->
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🧑‍💻 Frontend Mentee at **DJS Unicode** — my college's technical club
 - 📈 Independently follow **Indian equity markets** and I'm building at the intersection of tech and fintech
 - 🧱 I build end-to-end — from solving the algorithm on paper to shipping the deployed app
-- 🤖 Long-term goal: become a top 1% AI-orchestrator-level engineer — someone who knows which tool to reach for, not just how to prompt one
+- 🤖 Long-term goal: Aspiring Software Engineer dedicated to writing highly optimized code, mastering complex data structures, and building scalable full-stack web applications.
 
 ### 🔭 Currently building
 
@@ -28,7 +28,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,react,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,nextjs,git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,react,js,html,css,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,vercel" />
 </p>
 
 ### 🚀 Featured Projects
@@ -38,8 +38,6 @@
 | **[SocialConnect](https://github.com/MeetUnadakat07/SocioConnect)** | Instagram-style social platform — JWT auth, protected routes, follow/unfollow with state-driven UI, discover feed via REST APIs. |
 | **[Rentify](https://github.com/MeetUnadakat07/Rentify)** | Airbnb-inspired rental platform on Express + MongoDB + EJS, built CRUD-first with Mongoose schemas for listings. |
 | **[DSA_in_CPP](https://github.com/MeetUnadakat07/DSA_in_CPP)** | Public log of solved algorithmic problems — Arrays, Trees, Graphs, Tries, DP (in progress). |
-
-*(Swap in your other repos here as they mature — keep this list at 3-5, real ones only.)*
 
 ### 📊 GitHub Stats
 
@@ -55,7 +53,6 @@
 ### 📫 Reach me
 
 - LinkedIn: [linkedin.com/in/meet-unadakat](https://linkedin.com/in/meet-unadakat)
-- Email: **your-email@gmail.com**
-- Portfolio: **your-portfolio-link.com**
+- Email: **meetunadakat06@gmail.com**
 
 <p align="center"><i>Building in public, one shipped project at a time.</i></p>
