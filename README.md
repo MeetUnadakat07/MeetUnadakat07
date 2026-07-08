@@ -42,16 +42,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeetUnadakat07&show_icons=true&theme=transparent&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetUnadakat07&layout=compact&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=MeetUnadakat07&show_icons=true&theme=transparent&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MeetUnadakat07&layout=compact&theme=transparent" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetUnadakat07&theme=dark" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetUnadakat07&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=MeetUnadakat07&theme=dark" height="165"/>
 </p>
 
 ### 📫 Reach me
