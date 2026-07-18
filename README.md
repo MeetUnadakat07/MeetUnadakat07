@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MeetUnadakat07&theme=dark" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetUnadakat07&theme=dark" height="165"/>
 </p>
 
 ### 📫 Reach me
